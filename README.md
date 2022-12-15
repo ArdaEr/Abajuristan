@@ -23,5 +23,5 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 Enerji kaynaklarının tüketilmesiyle karanlık bir dünyada hapsolmuş bir abajur engelleri aşarak, kendi ışığının sönmesini engellerken dünyayı eski haline getirmek ister. İnsanlara yakalanmamaya çalışarak diğer abajurları kurtarır.
 
-<img src = "ScreenAb.PNG"></>
+<img src = "ScreenAb.PNG" width = "400px"></>
 
