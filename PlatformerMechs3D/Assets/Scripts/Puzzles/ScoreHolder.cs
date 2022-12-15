@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScoreHolder : MonoBehaviour
 {
-    int score = 0;
+    [SerializeField] private int score = 0;
     [SerializeField] Animator _anim;
     [SerializeField] GameObject _camo;
     // Start is called before the first frame update
